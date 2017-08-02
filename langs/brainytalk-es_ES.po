@@ -1,0 +1,403 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BrainyTalk Plug-in\n"
+"POT-Creation-Date: 2016-09-30 09:00-0300\n"
+"PO-Revision-Date: 2016-09-30 09:00-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: brainytalk-chat.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: framework/settings.php:95
+msgid "Informações"
+msgstr "Informaciones"
+
+#: framework/settings.php:99
+msgid "Versão"
+msgstr "Versión"
+
+#: framework/settings.php:103
+msgid "Site do Plugin"
+msgstr "El sitio del Plugin"
+
+#: framework/settings.php:107
+msgid "Sobre a BrainyTalk"
+msgstr "Acerca de BrainyTalk"
+
+#: framework/settings.php:120
+msgid "Autenticação"
+msgstr "Autentificación"
+
+#: framework/settings.php:121
+msgid "Faça login ou crie uma conta"
+msgstr "Iniciar sesión o crear una cuenta"
+
+#: framework/settings.php:127 framework/settings.php:143
+msgid "Entrar"
+msgstr "Ingresar"
+
+#: framework/settings.php:129
+msgid "É necessário ter uma conta válida para utilizar o plugin."
+msgstr "Debe tener una cuenta válida para usar el plugin."
+
+#: framework/settings.php:132
+msgid "E-mail"
+msgstr "Correo electrónico"
+
+#: framework/settings.php:133
+msgid "Digite seu e-mail"
+msgstr "Indica tu email"
+
+#: framework/settings.php:136 framework/settings.php:137
+#: framework/settings.php:404
+msgid "Senha"
+msgstr "Contraseña"
+
+#: framework/settings.php:140
+msgid "Esqueceu sua senha?"
+msgstr "No Recuerdas tu Contraseña."
+
+#: framework/settings.php:147
+msgid "Não possui conta?"
+msgstr "¿No tienes cuenta?"
+
+#: framework/settings.php:149
+msgid "Crie uma conta agora e começa a utilizar o plugin:"
+msgstr "Crear una cuenta ahora y comience a usar el plugin:"
+
+#: framework/settings.php:164
+msgid "Validação"
+msgstr "Validación"
+
+#: framework/settings.php:165
+msgid "Contas válidas possuem uma chave específica"
+msgstr "Cuentas válidas tienen una clave específica"
+
+#: framework/settings.php:172
+msgid "Chave da API"
+msgstr "Clave de API"
+
+#: framework/settings.php:173
+msgid "API Key é um código único que utilizamos para identificar sua conta."
+msgstr "API Key es un código único que se utiliza para identificar su cuenta."
+
+#: framework/settings.php:174
+msgid ""
+"Clique no botão abaixo para acessar o nosso aplicativo e responder aos "
+"visitantes em tempo real."
+msgstr ""
+"Haga clic en el botón de abajo para acceder a nuestra aplicación y responder "
+"a los visitantes en tiempo real."
+
+#: framework/settings.php:178
+msgid "Acessar Aplicação"
+msgstr "Acceso"
+
+#: framework/settings.php:181
+msgid "API Key"
+msgstr "API Key"
+
+#: framework/settings.php:182
+msgid "Digite sua API Key"
+msgstr "Introduzca su clave de API"
+
+#: framework/settings.php:199
+msgid "Aparência"
+msgstr "Apariencia"
+
+#: framework/settings.php:200
+msgid "É hora de deixar o plugin com a sua cara"
+msgstr "Es el momento de dejar el plugin con tu cara"
+
+#: framework/settings.php:208
+msgid "Selecione o canal de chat a ser usado"
+msgstr "Seleccione el canal de chat para ser utilizado"
+
+#: framework/settings.php:223
+msgid "Fale Conosco"
+msgstr "Contáctenos"
+
+#: framework/settings.php:226
+msgid "Título do Chat"
+msgstr "Título de la charla"
+
+#: framework/settings.php:227
+msgid "Ex: Fale Conosco"
+msgstr "Contáctenos"
+
+#: framework/settings.php:230 framework/settings.php:240
+#: framework/settings.php:249
+msgid "Estilo 1"
+msgstr "1 estilo"
+
+#: framework/settings.php:244
+msgid "Estilo 2"
+msgstr "2 estilo"
+
+#: framework/settings.php:254
+msgid "Cor Principal"
+msgstr "Color principal"
+
+#: framework/settings.php:255 framework/settings.php:266
+#: framework/settings.php:277 framework/settings.php:289
+msgid "(Clique para selecioanar a cor)"
+msgstr "(Haga clic para selecioanar el color)"
+
+#: framework/settings.php:265
+msgid "Cor do texto"
+msgstr "Color del texto"
+
+#: framework/settings.php:276
+msgid "Cor do Shadow (Estilo 1)"
+msgstr "Color de la sombra (estilo 1)"
+
+#: framework/settings.php:288
+msgid "Cor do Cabeçalho"
+msgstr "Color del encabezado"
+
+#: framework/settings.php:299
+msgid "Imagem de Fundo"
+msgstr "Fondo de página"
+
+#: framework/settings.php:300
+msgid "(Clique no botão para fazer o upload ou insira uma URL)"
+msgstr "(Haga clic en el botón para añadir o introduzca una URL)"
+
+#: framework/settings.php:303
+msgid "Deixe em branco para utilizar a imagem padrão"
+msgstr "Deje en blanco para usar la imagen predeterminada"
+
+#: framework/settings.php:306
+msgid "Selecionar"
+msgstr "Seleccionar"
+
+#: framework/settings.php:313
+msgid "Restaurar definições de cores e imagem"
+msgstr "Restaurar imagen y ajustes de color"
+
+#: framework/settings.php:356
+msgid "Salvar Alteraçoes"
+msgstr "Guardar los cambios"
+
+#: framework/settings.php:371
+msgid "Fechar"
+msgstr "Cerrar"
+
+#: framework/settings.php:373
+msgid "Não possui uma conta?"
+msgstr "¿No tienes una cuenta?"
+
+#: framework/settings.php:374
+msgid "Crie sua conta agora, e aproveite o melhor do atendimento on-line."
+msgstr "Crea tu cuenta ahora y disfrutar de lo mejor del servicio en línea."
+
+#: framework/settings.php:380
+msgid "Nome Completo"
+msgstr "Nombre Completo:"
+
+#: framework/settings.php:382
+msgid "João da Silva"
+msgstr "Juan Silva"
+
+#: framework/settings.php:388
+msgid "Endereço de E-mail"
+msgstr "Dirección de correo"
+
+#: framework/settings.php:390
+msgid "exemplo@servidor.com"
+msgstr "ejemplo@empresa.com"
+
+#: framework/settings.php:396
+msgid "Telefone"
+msgstr "Teléfono"
+
+#: framework/settings.php:420
+msgid "Força da senha"
+msgstr "Contraseña"
+
+#: framework/settings.php:430 framework/ws_options.php:37
+msgid "Cancelar"
+msgstr "Cancelar"
+
+#: framework/settings.php:431
+msgid "Salvar"
+msgstr "Guardar"
+
+#: framework/ws_options.php:20
+msgid "Confirmação de e-mail"
+msgstr "E-mail (confirmación)"
+
+#: framework/ws_options.php:21
+msgid "Enviamos um e-mail para"
+msgstr "Enviar un correo electrónico a"
+
+#: framework/ws_options.php:22
+msgid "Confirme seu e-mail através deste e faça login em sua conta"
+msgstr ""
+"Confirme su correo electrónico a través de este e iniciar sesión en tu cuenta"
+
+#: framework/ws_options.php:23
+msgid "Ocorreu um erro no cadastro. Tente novamente!"
+msgstr "Hubo un error en el registro. ¡Vuelve a intentarlo!"
+
+#: framework/ws_options.php:24
+msgid "Login efetuado com sucesso"
+msgstr "Inicio de sesión realizado con éxito"
+
+#: framework/ws_options.php:25
+msgid "Ocorreu um erro na autenticação. Tente novamente!"
+msgstr "Hubo un error en la autenticación. ¡Vuelve a intentarlo!"
+
+#: framework/ws_options.php:26
+msgid "É necessário confirmar o seu endereço de e-mail."
+msgstr "Es necesario confirmar su correo electrónico."
+
+#: framework/ws_options.php:27
+msgid "O e-mail e a senha digitados não coincidem. Tente novamente!"
+msgstr ""
+"El correo electrónico y la contraseña no coinciden. ¡Vuelve a intentarlo!"
+
+#: framework/ws_options.php:28
+msgid "Erro salvando as configurações. Tente novamente!"
+msgstr "Error al guardar la configuración. ¡Vuelve a intentarlo!"
+
+#: framework/ws_options.php:29
+msgid "Configurações salvas com sucesso!"
+msgstr "Ajustes guardados con éxito!"
+
+#: framework/ws_options.php:30
+msgid "E-mail enviado!"
+msgstr "Correo electrónico enviado!"
+
+#: framework/ws_options.php:31
+msgid "Erro ao enviar e-mail!"
+msgstr "Error al enviar correo"
+
+#: framework/ws_options.php:32
+msgid "Bem Vindo"
+msgstr "Bienvenido/a"
+
+#: framework/ws_options.php:34
+msgid "Você tem certeza?"
+msgstr "¿Estás seguro?"
+
+#: framework/ws_options.php:35
+msgid ""
+"As definições de cor e a imagem de fundo serão alteradas para o padrão! Você "
+"poderá configurar novamente depois."
+msgstr ""
+"Las definiciones de color y la imagen de fondo se cambiará el valor "
+"predeterminado. Puede configurar más tarde."
+
+#: framework/ws_options.php:36
+msgid "Sim, restaurar!"
+msgstr "Sí, restaurar!"
+
+#. Plugin Name of the plugin/theme
+msgid "BrainyTalk Plug-in"
+msgstr "BrainyTalk plug-in"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://brainytalk.com"
+msgstr "https://brainytalk.com"
+
+#. Description of the plugin/theme
+msgid "Plugin de chat integrado para uso com o sistema BrainyTalk"
+msgstr "Plugin de chat integrado para su uso con el sistema de BrainyTalk"
+
+#. Author of the plugin/theme
+msgid "BrainyTalk"
+msgstr "BrainyTalk"
+
+#~ msgid "Por favor, aguarde! Em breve você será atendido."
+#~ msgstr "¡Espera! Pronto responderá."
+
+#~ msgid "Chat encerrado. Obrigado"
+#~ msgstr "Chat terminado. Gracias"
+
+#~ msgid "E-mail Enviado. Assim que possível entraremos em contato. Obrigado."
+#~ msgstr ""
+#~ "Correo electrónico enviado. Nosotros le contactaremos tan pronto como sea "
+#~ "posible. Gracias."
+
+#~ msgid "Mensagem inicial"
+#~ msgstr "Mensaje inicial"
+
+#~ msgid "Enviar E-mail"
+#~ msgstr "Enviar"
+
+#~ msgid "Iniciar Chat"
+#~ msgstr "Iniciar Chat"
+
+#~ msgid "Configuração SMTP"
+#~ msgstr "Configuración de SMTP"
+
+#~ msgid ""
+#~ "Configurando o servidor de envio de e-mails, seu visitante pode enviar um "
+#~ "e-mail diretamente pra você, quando você não estiver logado no chat"
+#~ msgstr ""
+#~ "Configurar el servidor para enviar emails, el visitante puede enviar un "
+#~ "correo electrónico directamente a usted, cuando usted no ha iniciado "
+#~ "sesión chat"
+
+#~ msgid "Host SMTP"
+#~ msgstr "Host SMTP"
+
+#~ msgid "https://servidor.dominio.com"
+#~ msgstr "servidor.dominio.com"
+
+#~ msgid "Porta"
+#~ msgstr "Puerta"
+
+#~ msgid "Requer Autenticação"
+#~ msgstr "Requiere autenticación"
+
+#~ msgid "SSL"
+#~ msgstr "SSL"
+
+#~ msgid "Usuário"
+#~ msgstr "Usuario"
+
+#~ msgid "usuario@dominio.com"
+#~ msgstr "ejempro@empresa.com"
+
+#~ msgid "Salvar Alterações"
+#~ msgstr "Guardar cambios"
+
+#~ msgid "Online"
+#~ msgstr "Online"
+
+#~ msgid "Offline"
+#~ msgstr "Offline"
+
+#~ msgid "Enviar e-mail de Testes"
+#~ msgstr "Enviar correo electrónico de prueba"
+
+#~ msgid "Textos"
+#~ msgstr "Textos"
+
+#~ msgid ""
+#~ "Vamos personalizar os textos para que seus clientes saibam com quem estão "
+#~ "falando?"
+#~ msgstr ""
+#~ "¿Vamos a personalizar los textos para que sus clientes sepan que usted "
+#~ "está hablando?"
+
+#~ msgid "Cor do Texto"
+#~ msgstr "Color del texto"
+
+#~ msgid "Segunda Cor"
+#~ msgstr "Segundo Color"
